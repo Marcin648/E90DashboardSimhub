@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E90DashboardSimhub", "Marcin648.e90DashboardSimhub\E90DashboardSimhub.csproj", "{F493F664-5E10-4ECF-8956-42C9B6EA952E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F493F664-5E10-4ECF-8956-42C9B6EA952E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F493F664-5E10-4ECF-8956-42C9B6EA952E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F493F664-5E10-4ECF-8956-42C9B6EA952E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F493F664-5E10-4ECF-8956-42C9B6EA952E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C074FE9B-F527-4B15-936F-09706C3C39D4}
+	EndGlobalSection
+EndGlobal
